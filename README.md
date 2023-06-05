@@ -18,8 +18,12 @@ To set up the project locally, follow these steps:
 * HTML5 & CSS3: We utilize HTML5 and CSS3 to structure and style the website, ensuring a visually appealing and responsive layout across different devices and screen sizes.
 ## Screenshots
 ### Desktop View
-![Alt text](c:/Users/rocki/Desktop/Desktop%20View.png)
+![Desktop View](https://github.com/gauravk13101/JourneyJunction/assets/103731444/3bc9f234-9fdc-434c-abf1-d8612610aa9f)
+<br />
+<br />
 ### Tablet View
-![Alt text](c:/Users/rocki/Desktop/Tablet%20View.png)
+![Tablet View](https://github.com/gauravk13101/JourneyJunction/assets/103731444/82d3f783-f80d-48c5-a163-d754f2c6c973)
+<br />
+<br />
 ### Mobile View
-![Alt text](c:/Users/rocki/Desktop/Mobile%20View.png)
+![Mobile View](https://github.com/gauravk13101/JourneyJunction/assets/103731444/b9e75fd8-519d-4024-8157-ec2c3da7bed3)

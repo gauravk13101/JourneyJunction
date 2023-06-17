@@ -8,7 +8,7 @@ Welcome to the JourneyJunction, a responsive and user-friendly UI of a website b
 
 To set up the project locally, follow these steps:
 
-    1. Clone the repository: git clone https://github.com/your-username/JourneyJunction.git
+    1. Clone the repository: git clone https://github.com/gauravk13101/JourneyJunction.git
     2. Install the dependencies: npm install
     3. Start the development server: npm start
     4. Open your browser and visit http://localhost:3000 to access the website.
